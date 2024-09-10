@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @yanwoo8
-- 👀 I’m interested in ...
+
+<details>
+<summary>
+  👀 I’m interested in ...
+</summary>
+   - language : C/C++, C#, Python
+   - making : Computer Graphics, Game Programming
+</details>
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -8,3 +16,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanwoo8)](https://github.com/anuraghazra/github-readme-stats)
+
