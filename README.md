@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @yanwoo8
+👋 Hi, I’m @yanwoo8
+
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanwoo8)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>
@@ -22,12 +24,5 @@
 </summary>
 
   - ✉️ email : kkyanwoo@gmail.com
-  - ✨ field : Computer Graphics, Game Programming
 </details>
-
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanwoo8)](https://github.com/anuraghazra/github-readme-stats)
 
