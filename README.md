@@ -1,7 +1,7 @@
-## 🌱 Welcome to My Developer Journey! 🌱
+# 🌱 Welcome to My Developer Journey! 🌱
 
 I’m an aspiring developer, just starting out on this exciting path.  
-**All my code** is open to criticism, feedback, and guidance — no matter how blunt! 🙇‍♂️  
+All my code is open to **criticism, feedback, and guidance** — no matter how blunt! 🙇‍♂️  
 In fact, **the harsher**, the better. 🙏  
 Feel free to offer your insights, suggestions, or even "tough love" — it’s all welcome! 💪
 
@@ -29,5 +29,6 @@ Feel free to offer your insights, suggestions, or even "tough love" — it’s a
 </summary>
 
   - ✉️ email : kkyanwoo@gmail.com
+  - 🎮 steam : niar / 1209408742
 </details>
 
