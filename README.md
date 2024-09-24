@@ -22,6 +22,7 @@ Feel free to offer your insights, suggestions, or even "tough love" — it’s a
   
   - 💕 language : C/C++, C#, Python
   - ✨ field : Computer Graphics, Game Programming
+  - ✍️ studying : Algorithm, Computer Graphics
 </details>
 <details>
 <summary>
