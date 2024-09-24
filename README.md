@@ -1,4 +1,9 @@
-👋 Hi, I’m @yanwoo8
+## 🌱 Welcome to My Developer Journey! 🌱
+
+I’m an aspiring developer, just starting out on this exciting path.  
+**All my code** is open to criticism, feedback, and guidance — no matter how blunt! 🙇‍♂️  
+In fact, **the harsher**, the better. 🙏  
+Feel free to offer your insights, suggestions, or even "tough love" — it’s all welcome! 💪
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanwoo8)](https://github.com/anuraghazra/github-readme-stats)
 
