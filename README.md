@@ -30,6 +30,7 @@ Feel free to offer your insights, suggestions, or even "tough love" — it’s a
 </summary>
 
   - ✉️ email : kkyanwoo@gmail.com
+  - 🌱 Linkedin : https://www.linkedin.com/in/yanwoo-kim-395b80309/
   - 🎮 steam : niar / 1209408742
 </details>
 
