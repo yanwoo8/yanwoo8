@@ -1,10 +1,12 @@
 # 🌱 Welcome to My Developer Journey! 🌱
 
+안녕하세요, 방문해주셔서 감사합니다! <br/>
+저는 깃 초보자이자, 인공지능 개발자를 꿈꾸는 입문자입니다. <br/>
+잘 부탁드립니다! <br/>
 Hi, Thank you for your visiting! <br/>
 I’m a **Git beginner** who has just started, <br/>
 and a **Junior developer** aspiring to grow into an AI developer! <br/>
-All my code is open, and I welcome advice and feedback. <br/>
-(I haven’t actually participated in any Git projects yet and am still getting used to it, so there’s no activity for now 😅)
+(아직은 활동이 많이 없습니다 there’s no activity for now 😅)
 <br><br>
 
 <details>
