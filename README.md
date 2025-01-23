@@ -4,8 +4,6 @@ All my code is open to **criticism, feedback, and guidance** — no matter how b
 In fact, **the harsher**, the better. 🙏  
 Feel free to offer your insights, suggestions, or even "tough love" — it’s all welcome! 💪
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanwoo8)](https://github.com/anuraghazra/github-readme-stats)
-
 <details>
   <summary>
   🤓 Information
@@ -35,6 +33,7 @@ Feel free to offer your insights, suggestions, or even "tough love" — it’s a
 
 
 # Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanwoo8)](https://github.com/anuraghazra/github-readme-stats)
 <div align=left>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
