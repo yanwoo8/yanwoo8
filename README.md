@@ -21,7 +21,7 @@ All my code is open, and I welcome advice and feedback. <br/>
 </summary>
   
   - 💕 language : C/C++, C#, Python
-  - ✨ field : AI/ML, IoT/Embedded, Computer Graphics, Game Programming
+  - ✨ field    : AI/ML, IoT/Embedded, Computer Graphics, Game Programming
   - ✍️ studying : Algorithm, Computer Graphics
 </details>
 <details>
