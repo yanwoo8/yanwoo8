@@ -29,9 +29,9 @@ All my code is open, and I welcome advice and feedback. <br/>
   📫 How to reach me
 </summary>
 
-  - ✉️ email : kkyanwoo@gmail.com
-  - 🌱 Linkedin : https://www.linkedin.com/in/yanwoo-kim-395b80309/
-  - 🎮 steam : niar / 1209408742
+  - ✉️ email⠀⠀⠀⠀:⠀kkyanwoo@gmail.com
+  - 🌱 Linkedin⠀:⠀https://www.linkedin.com/in/yanwoo-kim-395b80309/
+  - 🎮 steam⠀⠀⠀⠀:⠀niar / 1209408742
 </details>
 
 
