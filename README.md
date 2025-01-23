@@ -1,12 +1,8 @@
 # 🌱 Welcome to My Developer Journey! 🌱
-Hi, Thank you for your visiting!
-
-I’m a (1) Git beginner who has just started, 
-
-and a (2) junior developer aspiring to grow into an AI developer! 
-
-All my code is open, and I welcome advice and feedback. 
-
+Hi, Thank you for your visiting!⠀
+I’m a (1) Git beginner who has just started,⠀
+and a (2) junior developer aspiring to grow into an AI developer!⠀
+All my code is open, and I welcome advice and feedback.⠀
 (I haven’t actually participated in any Git projects yet and am still getting used to it, so there’s no activity for now 😅)
 
 <details>
