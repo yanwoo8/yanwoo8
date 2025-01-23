@@ -14,7 +14,7 @@ and a Junior developer aspiring to grow into an AI developer! <br/>
   🤓 Information
 </summary>
   
-  - 🎓 Bachelor of Software Engineering, College of Software Convergence, Sejong University 2021.03~2026.02
+  - 🎓 Bachelor of Software Engineering, Sejong University 2021.03~2026.02
 </details>
 
 <details>
