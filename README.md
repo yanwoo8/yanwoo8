@@ -1,7 +1,8 @@
 # 🌱 Welcome to My Developer Journey! 🌱
+
 Hi, Thank you for your visiting! <br/>
 I’m a **Git beginner** who has just started, <br/>
-and a **junior developer** aspiring to grow into an AI developer! <br/>
+and a **Junior developer** aspiring to grow into an AI developer! <br/>
 All my code is open, and I welcome advice and feedback. <br/>
 (I haven’t actually participated in any Git projects yet and am still getting used to it, so there’s no activity for now 😅)
 <br><br>
@@ -11,7 +12,7 @@ All my code is open, and I welcome advice and feedback. <br/>
   🤓 Information
 </summary>
   
-  - 🎓 Bachelor of Software Engineering, College of Software Convergence, Sejong University 2022.03~2026.02
+  - 🎓 Bachelor of Software Engineering, College of Software Convergence, Sejong University 2021.03~2026.02
 </details>
 
 <details>
