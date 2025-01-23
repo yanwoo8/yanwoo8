@@ -1,5 +1,5 @@
 # 🌱 Welcome to My Developer Journey! 🌱
----
+--
 I’m an aspiring developer, just starting out on this exciting path.  
 All my code is open to **criticism, feedback, and guidance** — no matter how blunt! 🙇‍♂️  
 In fact, **the harsher**, the better. 🙏  
@@ -36,7 +36,7 @@ Feel free to offer your insights, suggestions, or even "tough love" — it’s a
 
 
 # Languages
----
+--
 <div align=left>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
