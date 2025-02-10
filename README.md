@@ -22,7 +22,7 @@ and a Junior developer aspiring to grow into an AI developer! <br/>
 </summary>
     ✉️ email :⠀kkyanwoo@gmail.com
     <br>
-    🌱 Linkedin :⠀https://www.linkedin.com/in/yanwoo-kim-395b80309/
+    🌱 Linkedin :⠀(closed until job search!)
     <br>
     🎮 steam :⠀niar / 1209408742
 </details>
