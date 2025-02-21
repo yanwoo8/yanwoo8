@@ -8,7 +8,7 @@ Thank you for your visiting! <br/>
 <br><br>
 🎓 Bachelor of Software Engineering, Sejong University 2021.03~2026.02
 <br>
-✨ interested in AI/ML, IoT/Embedded, Computer Graphics, Game Programming
+✨ interested in AI/ML, Game Programming
 
 <details>
 <summary>
