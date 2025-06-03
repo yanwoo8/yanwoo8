@@ -1,4 +1,5 @@
 <div align="center">
+[Yanwoo Kim](https://www.linkedin.com/in/yanwoo-k-395b80309/)
 
 # 🌱 Welcome to My Developer Journey! 🌱
 방문해주셔서 감사합니다!       <br/>
@@ -16,7 +17,7 @@ Thank you for your visiting! <br/>
 </summary>
     ✉️ email :⠀kkyanwoo@gmail.com
     <br>
-    🌱 Linkedin :⠀[Yanwoo Kim](https://www.linkedin.com/in/yanwoo-k-395b80309)
+    🌱 Linkedin :⠀
     <br>
     🎮 steam :⠀niar / 1209408742
 </details>
