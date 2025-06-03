@@ -11,13 +11,11 @@ Thank you for your visiting! <br/>
 ✨ interested in AI/ML, Game Programming
 
 <details>
-<summary>
-  📫 How to reach me
-</summary>
+<summary> 📫 How to reach me </summary>
   
-    ✉️ email :⠀kkyanwoo@gmail.com
-    <br>
+    ✉️ email :⠀kkyanwoo@gmail.com <br/>
     🌱 Linkedin : [Yanwoo Kim](https://www.linkedin.com/in/yanwoo-k-395b80309/)
+    
 </details>
 
 ⠀
