@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🌱 Welcome to My Developer Journey! 🌱
+[Yanwoo Kim](https://www.linkedin.com/in/yanwoo-k-395b80309/)
 방문해주셔서 감사합니다!       <br/>
 Thank you for your visiting! <br/>
 <br>
