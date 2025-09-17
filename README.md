@@ -5,7 +5,9 @@ Thank you for your visiting! <br/>
 <br>
 :star:
 <br><br>
-🎓 Bachelor of Software Engineering, Sejong University 2021.03~2026.08
+🎓 Bachelor of Software Engineering, Sejong University `2021.03 ~ 2026.08`</br>
+🎓 Undergraduate Research Intern in [PMLC Lab](https://sites.google.com/view/pmlclab/) `2024.12 ~ 2025.03`</br>
+💻 QA & R&D Intern in [3i](https://www.3i.ai/)  `2025.03 ~ 2025.06`</br>
 <br>
 ✨ interested in AI/ML, Game Programming
 
