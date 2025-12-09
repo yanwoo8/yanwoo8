@@ -11,21 +11,18 @@ Thank you for your visiting! <br/>
 <br>
 ✨ interested in AI/ML, Game Programming
 
-<details>
-<summary> 📫 How to reach me </summary>
-  
-  ✉️ email :⠀kkyanwoo@gmail.com</br>
-  🌱 Linkedin : [Yanwoo Kim](https://www.linkedin.com/in/yanwoo-k-395b80309/)
-</details>
+✉️ email :⠀kkyanwoo@gmail.com</br>
+🌱 Linkedin : [Yanwoo Kim](https://www.linkedin.com/in/yanwoo-k-395b80309/)</br>
 
 ⠀
 
-# Using
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanwoo8)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
+### Using
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/langchain-231C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/ollama-23000000?style=for-the-badge&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
   <br><br>
